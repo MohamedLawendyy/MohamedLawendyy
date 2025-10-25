@@ -20,8 +20,10 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,godot,unity,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,cpp,python,godot,unity,visualstudio,vscode,git,github&theme=dark" alt="skills" />
 </p>
+
+
 
 ---
 
@@ -54,5 +56,7 @@
 <p align="center">
   <a href="https://github.com/MohamedLawendyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-lawendy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:Mohamed.h.Lawendy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
