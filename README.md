@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm Mohamed Lawendy</h1>
 
 <p align="center">
-  <b>Software Developer</b> since <b>2025</b> || <b>Game Developer</b> since <b>2025</b><br>
+  <b>Software Developer || <b>Game Developer</b> <br>
   💻 Passionate about building creative games and high-performance software
 </p>
 
